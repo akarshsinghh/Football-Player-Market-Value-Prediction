@@ -1,1 +1,2 @@
 # Football-Player-Market-Value-Prediction
+This is a dataset created from webscrping, using python. Data was collected, cleaned, transformed, and aggregated from two websites () from over 20 tables. Beautifulsoup library in Python was used to achieve the same. Various predictive models were used to create an accurate predictor system. Players were chosen from top Football/Soccer leauges like Premier League, La Liga, Bundesliga, Serrie A, and Ligue 1. The final dataset had over 350 players with detailed statistics parameters of performance collected from over 2 seasons. 
